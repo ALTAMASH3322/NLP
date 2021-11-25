@@ -1,2 +1,3 @@
-# machine-learning-regression
-projects done during my regression course on coursera
+ner
+using lstm 
+
